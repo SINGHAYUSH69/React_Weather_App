@@ -1,0 +1,14 @@
+html{
+  height:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  text-align: center;
+
+}
+.butn{
+  background-color: rgb(51, 184, 120);
+  padding:2px;
+}
