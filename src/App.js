@@ -2,7 +2,7 @@
 import './App.css';
 import { useState } from "react";
 import { useEffect } from "react";
-const API_KEY='abe497de7b13b4439c46ba5dbb4c375f';
+const API_KEY='Your Api Key';
 function App() {
   const [city,setCity]=useState("Delhi");
   const [weather,setWeather]=useState(null);
